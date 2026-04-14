@@ -1,2 +1,2 @@
 # Recipe-project
-Simple HTML recipe website 
+A recipe page built using HTML & CSS basics, as part of my ewb developementt learning journey.
